@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://raw.githubusercontent.com/txlong/luquanquan/master/luquanquan.ipa</string>
+		<string>http://119.3.16.171:8083/lqq_app/app/download/</string>
 		<key>displayImageURL</key>
 		<string>https://raw.githubusercontent.com/txlong/luquanquan/master/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
