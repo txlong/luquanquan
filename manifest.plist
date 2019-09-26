@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://119.3.16.171:8083/lqq_app/app/download/</string>
+					<string>https://raw.githubusercontent.com/txlong/luquanquan/master/luquanquan.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
